@@ -1,0 +1,5 @@
+Name: cmap
+Description: c map implementation
+Version: 0.1.0
+Cflags: -I${pcfiledir}/src
+Libs: -L${pcfiledir}/src -lcmap
